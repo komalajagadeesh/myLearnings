@@ -1,11 +1,4 @@
 Work Items:
 
 Prasaanth:
-
-PSX-43326 --> p3-medium
-
-project = PSX AND issuetype = Defect AND status in In Progress AND Source != Customer AND assignee in ssolanke AND summary !~ PORTFIX ORDER BY priority DESC, key DESC
-
-
-
-project = PSX AND issuetype = Defect AND status in (Open, "In Progress", "Need Info", Assigned, Unassigned) AND Source != Customer AND assignee in (ssingh, anamdeo, sabakshi, kjagadeesh, ssolanke, pchinnasamy) AND summary !~ PORTFIX ORDER BY priority DESC, key DESC
+Komala:
